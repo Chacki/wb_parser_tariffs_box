@@ -18,13 +18,6 @@ git clone https://github.com/Chacki/wb_parser_tariffs_box.git
 ***
 ## **Сборка и запуск:**
 
-Запустить можно либо через npm или докер.
-
-* **Using NPM**
-```
-npm run build
-npm run start:prod
-```
 ***
 * **Using Docker**
 ```
